@@ -20,3 +20,4 @@ except Exception:
     drink_coffee()
     try_again()
 ``
+"It works on my machine."
