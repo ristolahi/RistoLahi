@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Risto 👋
 
-<!--
-**ristolahi/RistoLahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help organizations turn AI into measurable business value.
 
-Here are some ideas to get you started:
+## Current interests
+- AI Agents
+- Copilot Studio
+- Agent Governance
+- Microsoft AI Ecosystem
+- Automation
+- Hackathons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current status
+
+```python
+try:
+    build_ai_agents()
+except Exception:
+    search_docs()
+    drink_coffee()
+    try_again()
+``
